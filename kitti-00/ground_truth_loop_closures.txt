@@ -1,0 +1,921 @@
+# KITTI Forward Loop Closure Detection Results
+# Generated from: /home/wzb/0000000000alldatas/dataset/poses/00.txt
+# Configuration:
+#   Matching mode: Forward-only (frame N matches with frames 0 to N-100)
+#   Temporal window: 100 frames
+#   Distance threshold: 6.0 meters
+#   Top K matches: 5
+#   Sample interval: every 5 frames
+#   Total frames in dataset: 4541
+#
+# Format: Frame XXXXXX matches: YYYYYY(distance), ...
+#
+Frame 000000 matches: none
+Frame 000005 matches: none
+Frame 000010 matches: none
+Frame 000015 matches: none
+Frame 000020 matches: none
+Frame 000025 matches: none
+Frame 000030 matches: none
+Frame 000035 matches: none
+Frame 000040 matches: none
+Frame 000045 matches: none
+Frame 000050 matches: none
+Frame 000055 matches: none
+Frame 000060 matches: none
+Frame 000065 matches: none
+Frame 000070 matches: none
+Frame 000075 matches: none
+Frame 000080 matches: none
+Frame 000085 matches: none
+Frame 000090 matches: none
+Frame 000095 matches: none
+Frame 000100 matches: none
+Frame 000105 matches: none
+Frame 000110 matches: none
+Frame 000115 matches: none
+Frame 000120 matches: none
+Frame 000125 matches: none
+Frame 000130 matches: none
+Frame 000135 matches: none
+Frame 000140 matches: none
+Frame 000145 matches: none
+Frame 000150 matches: none
+Frame 000155 matches: none
+Frame 000160 matches: none
+Frame 000165 matches: none
+Frame 000170 matches: none
+Frame 000175 matches: none
+Frame 000180 matches: none
+Frame 000185 matches: none
+Frame 000190 matches: none
+Frame 000195 matches: none
+Frame 000200 matches: none
+Frame 000205 matches: none
+Frame 000210 matches: none
+Frame 000215 matches: none
+Frame 000220 matches: none
+Frame 000225 matches: none
+Frame 000230 matches: none
+Frame 000235 matches: none
+Frame 000240 matches: none
+Frame 000245 matches: none
+Frame 000250 matches: none
+Frame 000255 matches: none
+Frame 000260 matches: none
+Frame 000265 matches: none
+Frame 000270 matches: none
+Frame 000275 matches: none
+Frame 000280 matches: none
+Frame 000285 matches: none
+Frame 000290 matches: none
+Frame 000295 matches: none
+Frame 000300 matches: none
+Frame 000305 matches: none
+Frame 000310 matches: none
+Frame 000315 matches: none
+Frame 000320 matches: none
+Frame 000325 matches: none
+Frame 000330 matches: none
+Frame 000335 matches: none
+Frame 000340 matches: none
+Frame 000345 matches: none
+Frame 000350 matches: none
+Frame 000355 matches: none
+Frame 000360 matches: none
+Frame 000365 matches: none
+Frame 000370 matches: none
+Frame 000375 matches: none
+Frame 000380 matches: none
+Frame 000385 matches: none
+Frame 000390 matches: none
+Frame 000395 matches: none
+Frame 000400 matches: none
+Frame 000405 matches: none
+Frame 000410 matches: none
+Frame 000415 matches: none
+Frame 000420 matches: none
+Frame 000425 matches: none
+Frame 000430 matches: none
+Frame 000435 matches: none
+Frame 000440 matches: none
+Frame 000445 matches: none
+Frame 000450 matches: none
+Frame 000455 matches: none
+Frame 000460 matches: none
+Frame 000465 matches: none
+Frame 000470 matches: none
+Frame 000475 matches: none
+Frame 000480 matches: none
+Frame 000485 matches: none
+Frame 000490 matches: none
+Frame 000495 matches: none
+Frame 000500 matches: none
+Frame 000505 matches: none
+Frame 000510 matches: none
+Frame 000515 matches: none
+Frame 000520 matches: none
+Frame 000525 matches: none
+Frame 000530 matches: none
+Frame 000535 matches: none
+Frame 000540 matches: none
+Frame 000545 matches: none
+Frame 000550 matches: none
+Frame 000555 matches: none
+Frame 000560 matches: none
+Frame 000565 matches: none
+Frame 000570 matches: none
+Frame 000575 matches: none
+Frame 000580 matches: none
+Frame 000585 matches: none
+Frame 000590 matches: none
+Frame 000595 matches: none
+Frame 000600 matches: none
+Frame 000605 matches: none
+Frame 000610 matches: none
+Frame 000615 matches: none
+Frame 000620 matches: none
+Frame 000625 matches: none
+Frame 000630 matches: none
+Frame 000635 matches: none
+Frame 000640 matches: none
+Frame 000645 matches: none
+Frame 000650 matches: none
+Frame 000655 matches: none
+Frame 000660 matches: none
+Frame 000665 matches: none
+Frame 000670 matches: none
+Frame 000675 matches: none
+Frame 000680 matches: none
+Frame 000685 matches: none
+Frame 000690 matches: none
+Frame 000695 matches: none
+Frame 000700 matches: none
+Frame 000705 matches: none
+Frame 000710 matches: none
+Frame 000715 matches: none
+Frame 000720 matches: none
+Frame 000725 matches: none
+Frame 000730 matches: none
+Frame 000735 matches: none
+Frame 000740 matches: none
+Frame 000745 matches: none
+Frame 000750 matches: none
+Frame 000755 matches: none
+Frame 000760 matches: none
+Frame 000765 matches: none
+Frame 000770 matches: none
+Frame 000775 matches: none
+Frame 000780 matches: none
+Frame 000785 matches: none
+Frame 000790 matches: none
+Frame 000795 matches: none
+Frame 000800 matches: none
+Frame 000805 matches: none
+Frame 000810 matches: none
+Frame 000815 matches: none
+Frame 000820 matches: none
+Frame 000825 matches: none
+Frame 000830 matches: none
+Frame 000835 matches: none
+Frame 000840 matches: none
+Frame 000845 matches: none
+Frame 000850 matches: none
+Frame 000855 matches: none
+Frame 000860 matches: none
+Frame 000865 matches: none
+Frame 000870 matches: none
+Frame 000875 matches: none
+Frame 000880 matches: none
+Frame 000885 matches: none
+Frame 000890 matches: none
+Frame 000895 matches: none
+Frame 000900 matches: none
+Frame 000905 matches: none
+Frame 000910 matches: none
+Frame 000915 matches: none
+Frame 000920 matches: none
+Frame 000925 matches: none
+Frame 000930 matches: none
+Frame 000935 matches: none
+Frame 000940 matches: none
+Frame 000945 matches: none
+Frame 000950 matches: none
+Frame 000955 matches: none
+Frame 000960 matches: none
+Frame 000965 matches: none
+Frame 000970 matches: none
+Frame 000975 matches: none
+Frame 000980 matches: none
+Frame 000985 matches: none
+Frame 000990 matches: none
+Frame 000995 matches: none
+Frame 001000 matches: none
+Frame 001005 matches: none
+Frame 001010 matches: none
+Frame 001015 matches: none
+Frame 001020 matches: none
+Frame 001025 matches: none
+Frame 001030 matches: none
+Frame 001035 matches: none
+Frame 001040 matches: none
+Frame 001045 matches: none
+Frame 001050 matches: none
+Frame 001055 matches: none
+Frame 001060 matches: none
+Frame 001065 matches: none
+Frame 001070 matches: none
+Frame 001075 matches: none
+Frame 001080 matches: none
+Frame 001085 matches: none
+Frame 001090 matches: none
+Frame 001095 matches: none
+Frame 001100 matches: none
+Frame 001105 matches: none
+Frame 001110 matches: none
+Frame 001115 matches: none
+Frame 001120 matches: none
+Frame 001125 matches: none
+Frame 001130 matches: none
+Frame 001135 matches: none
+Frame 001140 matches: none
+Frame 001145 matches: none
+Frame 001150 matches: none
+Frame 001155 matches: none
+Frame 001160 matches: none
+Frame 001165 matches: none
+Frame 001170 matches: none
+Frame 001175 matches: none
+Frame 001180 matches: none
+Frame 001185 matches: none
+Frame 001190 matches: none
+Frame 001195 matches: none
+Frame 001200 matches: none
+Frame 001205 matches: none
+Frame 001210 matches: none
+Frame 001215 matches: none
+Frame 001220 matches: none
+Frame 001225 matches: none
+Frame 001230 matches: none
+Frame 001235 matches: none
+Frame 001240 matches: none
+Frame 001245 matches: none
+Frame 001250 matches: none
+Frame 001255 matches: none
+Frame 001260 matches: none
+Frame 001265 matches: none
+Frame 001270 matches: none
+Frame 001275 matches: none
+Frame 001280 matches: none
+Frame 001285 matches: none
+Frame 001290 matches: none
+Frame 001295 matches: none
+Frame 001300 matches: none
+Frame 001305 matches: none
+Frame 001310 matches: none
+Frame 001315 matches: none
+Frame 001320 matches: none
+Frame 001325 matches: none
+Frame 001330 matches: none
+Frame 001335 matches: none
+Frame 001340 matches: none
+Frame 001345 matches: none
+Frame 001350 matches: none
+Frame 001355 matches: none
+Frame 001360 matches: none
+Frame 001365 matches: none
+Frame 001370 matches: none
+Frame 001375 matches: none
+Frame 001380 matches: none
+Frame 001385 matches: none
+Frame 001390 matches: none
+Frame 001395 matches: none
+Frame 001400 matches: none
+Frame 001405 matches: none
+Frame 001410 matches: none
+Frame 001415 matches: none
+Frame 001420 matches: none
+Frame 001425 matches: none
+Frame 001430 matches: none
+Frame 001435 matches: none
+Frame 001440 matches: none
+Frame 001445 matches: none
+Frame 001450 matches: none
+Frame 001455 matches: none
+Frame 001460 matches: none
+Frame 001465 matches: none
+Frame 001470 matches: none
+Frame 001475 matches: none
+Frame 001480 matches: none
+Frame 001485 matches: none
+Frame 001490 matches: none
+Frame 001495 matches: none
+Frame 001500 matches: none
+Frame 001505 matches: none
+Frame 001510 matches: none
+Frame 001515 matches: none
+Frame 001520 matches: none
+Frame 001525 matches: none
+Frame 001530 matches: none
+Frame 001535 matches: none
+Frame 001540 matches: none
+Frame 001545 matches: none
+Frame 001550 matches: none
+Frame 001555 matches: none
+Frame 001560 matches: 000114(4.506), 000113(4.513), 000115(4.531), 000112(4.574), 000116(4.609)
+Frame 001565 matches: 000117(2.770), 000118(2.779), 000116(2.828), 000119(2.843), 000120(2.955)
+Frame 001570 matches: 000123(1.838), 000124(1.877), 000122(1.901), 000125(2.011), 000121(2.054)
+Frame 001575 matches: 000129(1.399), 000128(1.482), 000130(1.483), 000127(1.705), 000131(1.718)
+Frame 001580 matches: 000135(1.197), 000134(1.254), 000136(1.400), 000133(1.520), 000137(1.797)
+Frame 001585 matches: 000140(0.993), 000141(1.177), 000139(1.212), 000142(1.651), 000138(1.667)
+Frame 001590 matches: 000145(0.892), 000146(1.004), 000144(1.301), 000147(1.550), 000143(1.905)
+Frame 001595 matches: 000151(0.912), 000150(0.946), 000152(1.441), 000149(1.501), 000153(2.158)
+Frame 001600 matches: 000156(0.913), 000155(1.139), 000157(1.308), 000154(1.764), 000158(1.983)
+Frame 001605 matches: 000161(0.962), 000162(1.190), 000160(1.326), 000163(1.800), 000159(1.979)
+Frame 001610 matches: 000166(0.973), 000167(1.073), 000165(1.429), 000168(1.624), 000164(2.110)
+Frame 001615 matches: 000172(0.943), 000171(1.016), 000173(1.400), 000170(1.555), 000174(2.054)
+Frame 001620 matches: 000177(0.909), 000178(1.079), 000176(1.267), 000179(1.607), 000175(1.878)
+Frame 001625 matches: 000183(1.031), 000184(1.066), 000182(1.391), 000185(1.446), 000181(1.953)
+Frame 001630 matches: 000191(1.064), 000190(1.168), 000192(1.210), 000189(1.487), 000193(1.528)
+Frame 001635 matches: 000199(0.985), 000200(1.060), 000198(1.167), 000201(1.342), 000197(1.519)
+Frame 001640 matches: 000204(3.607), 000205(3.610), 000203(3.693), 000206(3.719), 000202(3.874)
+Frame 001645 matches: none
+Frame 001650 matches: none
+Frame 001655 matches: none
+Frame 001660 matches: none
+Frame 001665 matches: none
+Frame 001670 matches: none
+Frame 001675 matches: none
+Frame 001680 matches: none
+Frame 001685 matches: none
+Frame 001690 matches: none
+Frame 001695 matches: none
+Frame 001700 matches: none
+Frame 001705 matches: none
+Frame 001710 matches: none
+Frame 001715 matches: none
+Frame 001720 matches: none
+Frame 001725 matches: none
+Frame 001730 matches: none
+Frame 001735 matches: none
+Frame 001740 matches: none
+Frame 001745 matches: none
+Frame 001750 matches: none
+Frame 001755 matches: none
+Frame 001760 matches: none
+Frame 001765 matches: none
+Frame 001770 matches: none
+Frame 001775 matches: none
+Frame 001780 matches: none
+Frame 001785 matches: none
+Frame 001790 matches: none
+Frame 001795 matches: none
+Frame 001800 matches: none
+Frame 001805 matches: none
+Frame 001810 matches: none
+Frame 001815 matches: none
+Frame 001820 matches: none
+Frame 001825 matches: none
+Frame 001830 matches: none
+Frame 001835 matches: none
+Frame 001840 matches: none
+Frame 001845 matches: none
+Frame 001850 matches: none
+Frame 001855 matches: none
+Frame 001860 matches: none
+Frame 001865 matches: none
+Frame 001870 matches: none
+Frame 001875 matches: none
+Frame 001880 matches: none
+Frame 001885 matches: none
+Frame 001890 matches: none
+Frame 001895 matches: none
+Frame 001900 matches: none
+Frame 001905 matches: none
+Frame 001910 matches: none
+Frame 001915 matches: none
+Frame 001920 matches: none
+Frame 001925 matches: none
+Frame 001930 matches: none
+Frame 001935 matches: none
+Frame 001940 matches: none
+Frame 001945 matches: none
+Frame 001950 matches: none
+Frame 001955 matches: none
+Frame 001960 matches: none
+Frame 001965 matches: none
+Frame 001970 matches: none
+Frame 001975 matches: none
+Frame 001980 matches: none
+Frame 001985 matches: none
+Frame 001990 matches: none
+Frame 001995 matches: none
+Frame 002000 matches: none
+Frame 002005 matches: none
+Frame 002010 matches: none
+Frame 002015 matches: none
+Frame 002020 matches: none
+Frame 002025 matches: none
+Frame 002030 matches: none
+Frame 002035 matches: none
+Frame 002040 matches: none
+Frame 002045 matches: none
+Frame 002050 matches: none
+Frame 002055 matches: none
+Frame 002060 matches: none
+Frame 002065 matches: none
+Frame 002070 matches: none
+Frame 002075 matches: none
+Frame 002080 matches: none
+Frame 002085 matches: none
+Frame 002090 matches: none
+Frame 002095 matches: none
+Frame 002100 matches: none
+Frame 002105 matches: none
+Frame 002110 matches: none
+Frame 002115 matches: none
+Frame 002120 matches: none
+Frame 002125 matches: none
+Frame 002130 matches: none
+Frame 002135 matches: none
+Frame 002140 matches: none
+Frame 002145 matches: none
+Frame 002150 matches: none
+Frame 002155 matches: none
+Frame 002160 matches: none
+Frame 002165 matches: none
+Frame 002170 matches: none
+Frame 002175 matches: none
+Frame 002180 matches: none
+Frame 002185 matches: none
+Frame 002190 matches: none
+Frame 002195 matches: none
+Frame 002200 matches: none
+Frame 002205 matches: none
+Frame 002210 matches: none
+Frame 002215 matches: none
+Frame 002220 matches: none
+Frame 002225 matches: none
+Frame 002230 matches: none
+Frame 002235 matches: none
+Frame 002240 matches: none
+Frame 002245 matches: none
+Frame 002250 matches: none
+Frame 002255 matches: none
+Frame 002260 matches: none
+Frame 002265 matches: none
+Frame 002270 matches: none
+Frame 002275 matches: none
+Frame 002280 matches: none
+Frame 002285 matches: none
+Frame 002290 matches: none
+Frame 002295 matches: none
+Frame 002300 matches: none
+Frame 002305 matches: none
+Frame 002310 matches: none
+Frame 002315 matches: none
+Frame 002320 matches: none
+Frame 002325 matches: none
+Frame 002330 matches: none
+Frame 002335 matches: none
+Frame 002340 matches: none
+Frame 002345 matches: none
+Frame 002350 matches: none
+Frame 002355 matches: none
+Frame 002360 matches: none
+Frame 002365 matches: none
+Frame 002370 matches: none
+Frame 002375 matches: none
+Frame 002380 matches: none
+Frame 002385 matches: none
+Frame 002390 matches: none
+Frame 002395 matches: none
+Frame 002400 matches: none
+Frame 002405 matches: none
+Frame 002410 matches: none
+Frame 002415 matches: none
+Frame 002420 matches: none
+Frame 002425 matches: none
+Frame 002430 matches: 000381(5.573), 000382(5.586), 000380(5.608), 000383(5.662), 000379(5.736)
+Frame 002435 matches: 000384(3.328), 000383(3.391), 000385(3.407), 000382(3.584), 000386(3.619)
+Frame 002440 matches: 000387(1.657), 000388(1.693), 000386(1.879), 000389(1.985), 000385(2.294)
+Frame 002445 matches: 000392(0.642), 000391(0.758), 000393(1.091), 000390(1.296), 000394(1.692)
+Frame 002450 matches: 000397(0.409), 000396(0.580), 000398(0.930), 000395(1.175), 000399(1.550)
+Frame 002455 matches: 000403(0.444), 000402(0.458), 000404(0.892), 000401(0.962), 000405(1.395)
+Frame 002460 matches: 000410(0.400), 000409(0.549), 000411(0.718), 000408(0.984), 000412(1.166)
+Frame 002465 matches: 000417(1.661), 000418(1.734), 000416(1.735), 000415(1.921), 000419(1.946)
+Frame 002470 matches: 000422(4.522), 000423(4.528), 000421(4.548), 000424(4.602), 000420(4.677)
+Frame 002475 matches: none
+Frame 002480 matches: none
+Frame 002485 matches: none
+Frame 002490 matches: none
+Frame 002495 matches: none
+Frame 002500 matches: none
+Frame 002505 matches: none
+Frame 002510 matches: none
+Frame 002515 matches: none
+Frame 002520 matches: none
+Frame 002525 matches: none
+Frame 002530 matches: none
+Frame 002535 matches: none
+Frame 002540 matches: none
+Frame 002545 matches: none
+Frame 002550 matches: none
+Frame 002555 matches: none
+Frame 002560 matches: none
+Frame 002565 matches: none
+Frame 002570 matches: none
+Frame 002575 matches: none
+Frame 002580 matches: none
+Frame 002585 matches: none
+Frame 002590 matches: none
+Frame 002595 matches: none
+Frame 002600 matches: none
+Frame 002605 matches: none
+Frame 002610 matches: none
+Frame 002615 matches: none
+Frame 002620 matches: none
+Frame 002625 matches: none
+Frame 002630 matches: none
+Frame 002635 matches: none
+Frame 002640 matches: none
+Frame 002645 matches: none
+Frame 002650 matches: none
+Frame 002655 matches: none
+Frame 002660 matches: none
+Frame 002665 matches: none
+Frame 002670 matches: none
+Frame 002675 matches: none
+Frame 002680 matches: none
+Frame 002685 matches: none
+Frame 002690 matches: none
+Frame 002695 matches: none
+Frame 002700 matches: none
+Frame 002705 matches: none
+Frame 002710 matches: none
+Frame 002715 matches: none
+Frame 002720 matches: none
+Frame 002725 matches: none
+Frame 002730 matches: none
+Frame 002735 matches: none
+Frame 002740 matches: none
+Frame 002745 matches: none
+Frame 002750 matches: none
+Frame 002755 matches: none
+Frame 002760 matches: none
+Frame 002765 matches: none
+Frame 002770 matches: none
+Frame 002775 matches: none
+Frame 002780 matches: none
+Frame 002785 matches: none
+Frame 002790 matches: none
+Frame 002795 matches: none
+Frame 002800 matches: none
+Frame 002805 matches: none
+Frame 002810 matches: none
+Frame 002815 matches: none
+Frame 002820 matches: none
+Frame 002825 matches: none
+Frame 002830 matches: none
+Frame 002835 matches: none
+Frame 002840 matches: none
+Frame 002845 matches: none
+Frame 002850 matches: none
+Frame 002855 matches: none
+Frame 002860 matches: none
+Frame 002865 matches: none
+Frame 002870 matches: none
+Frame 002875 matches: none
+Frame 002880 matches: none
+Frame 002885 matches: none
+Frame 002890 matches: none
+Frame 002895 matches: none
+Frame 002900 matches: none
+Frame 002905 matches: none
+Frame 002910 matches: none
+Frame 002915 matches: none
+Frame 002920 matches: none
+Frame 002925 matches: none
+Frame 002930 matches: none
+Frame 002935 matches: none
+Frame 002940 matches: none
+Frame 002945 matches: none
+Frame 002950 matches: none
+Frame 002955 matches: none
+Frame 002960 matches: none
+Frame 002965 matches: none
+Frame 002970 matches: none
+Frame 002975 matches: none
+Frame 002980 matches: none
+Frame 002985 matches: none
+Frame 002990 matches: none
+Frame 002995 matches: none
+Frame 003000 matches: none
+Frame 003005 matches: none
+Frame 003010 matches: none
+Frame 003015 matches: none
+Frame 003020 matches: none
+Frame 003025 matches: none
+Frame 003030 matches: none
+Frame 003035 matches: none
+Frame 003040 matches: none
+Frame 003045 matches: none
+Frame 003050 matches: none
+Frame 003055 matches: none
+Frame 003060 matches: none
+Frame 003065 matches: none
+Frame 003070 matches: none
+Frame 003075 matches: none
+Frame 003080 matches: none
+Frame 003085 matches: none
+Frame 003090 matches: none
+Frame 003095 matches: none
+Frame 003100 matches: none
+Frame 003105 matches: none
+Frame 003110 matches: none
+Frame 003115 matches: none
+Frame 003120 matches: none
+Frame 003125 matches: none
+Frame 003130 matches: none
+Frame 003135 matches: none
+Frame 003140 matches: none
+Frame 003145 matches: none
+Frame 003150 matches: none
+Frame 003155 matches: none
+Frame 003160 matches: none
+Frame 003165 matches: none
+Frame 003170 matches: none
+Frame 003175 matches: none
+Frame 003180 matches: none
+Frame 003185 matches: none
+Frame 003190 matches: none
+Frame 003195 matches: none
+Frame 003200 matches: none
+Frame 003205 matches: none
+Frame 003210 matches: none
+Frame 003215 matches: none
+Frame 003220 matches: none
+Frame 003225 matches: none
+Frame 003230 matches: none
+Frame 003235 matches: none
+Frame 003240 matches: none
+Frame 003245 matches: none
+Frame 003250 matches: none
+Frame 003255 matches: none
+Frame 003260 matches: none
+Frame 003265 matches: none
+Frame 003270 matches: none
+Frame 003275 matches: 002343(4.340), 002342(4.348), 002344(4.428), 002341(4.448), 002345(4.616)
+Frame 003280 matches: 002345(2.716), 002344(2.744), 002346(2.866), 002343(2.929), 002347(3.175)
+Frame 003285 matches: 002347(1.440), 002348(1.505), 002346(1.704), 002349(1.891), 002345(2.170)
+Frame 003290 matches: 002351(0.646), 002350(0.695), 002352(1.279), 002349(1.326), 002348(2.037)
+Frame 003295 matches: 002354(0.160), 002355(0.758), 002353(0.926), 002356(1.619), 002352(1.733)
+Frame 003300 matches: 002358(0.092), 002357(0.815), 002359(0.996), 002356(1.698), 002360(1.925)
+Frame 003305 matches: 002362(0.031), 002361(0.949), 002363(0.960), 002360(1.888), 002364(1.929)
+Frame 003310 matches: 002366(0.357), 002367(0.668), 002365(1.347), 002368(1.689), 002364(2.327)
+Frame 003315 matches: 002371(0.252), 002372(1.040), 002370(1.045), 002373(2.041), 002369(2.047)
+Frame 003320 matches: 002376(0.497), 002375(0.993), 002377(1.271), 002374(1.957), 002378(2.244)
+Frame 003325 matches: 002381(0.699), 002380(1.077), 002382(1.349), 002379(1.958), 002383(2.272)
+Frame 003330 matches: 002386(0.719), 002385(1.087), 002387(1.321), 002384(1.943), 002388(2.198)
+Frame 003335 matches: 002391(0.669), 002390(1.091), 002392(1.259), 002389(1.958), 002393(2.139)
+Frame 003340 matches: 002396(0.651), 002395(1.089), 002397(1.207), 002394(1.942), 002398(2.072)
+Frame 003345 matches: 002401(0.656), 002400(1.102), 002402(1.164), 002399(1.931), 002403(1.985)
+Frame 003350 matches: 002406(0.773), 002407(1.093), 002405(1.201), 002408(1.775), 002404(1.947)
+Frame 003355 matches: 002411(0.851), 002412(1.066), 002410(1.190), 002413(1.598), 002409(1.826)
+Frame 003360 matches: 002416(0.801), 002415(1.013), 002417(1.027), 002418(1.487), 002414(1.517)
+Frame 003365 matches: 002420(0.638), 002421(0.745), 002419(0.971), 002422(1.164), 002418(1.474)
+Frame 003370 matches: 002424(0.495), 002425(0.562), 002423(0.903), 002426(1.019), 002422(1.425)
+Frame 003375 matches: 002428(0.467), 002429(0.476), 002427(0.898), 002430(0.916), 002426(1.429)
+Frame 003380 matches: 002433(0.365), 002432(0.456), 002434(0.840), 002431(0.952), 002435(1.383)
+Frame 003385 matches: 002437(0.249), 002436(0.588), 002438(0.674), 002435(1.118), 002439(1.228)
+Frame 003390 matches: 002441(0.246), 002442(0.501), 002440(0.809), 002443(1.124), 000388(1.252)
+Frame 003395 matches: 002445(0.288), 000392(0.385), 002446(0.488), 000391(0.749), 000393(0.820)
+Frame 003400 matches: 002449(0.263), 000396(0.384), 000395(0.562), 002450(0.692), 002448(0.788)
+Frame 003405 matches: 002453(0.285), 000400(0.441), 002452(0.609), 000399(0.640), 000401(0.858)
+Frame 003410 matches: 002456(0.410), 002457(0.483), 000404(0.536), 000405(0.541), 000406(0.916)
+Frame 003415 matches: 002460(0.468), 000410(0.468), 000409(0.649), 000411(0.706), 002459(0.895)
+Frame 003420 matches: 000416(0.373), 000415(0.376), 000417(0.739), 000414(0.753), 002463(1.108)
+Frame 003425 matches: 000421(0.119), 000420(0.390), 000422(0.512), 000419(0.826), 000423(0.945)
+Frame 003430 matches: 000426(0.399), 000427(0.451), 000425(0.683), 000428(0.782), 000424(1.049)
+Frame 003435 matches: 000432(0.555), 000431(0.647), 000433(0.814), 000430(0.970), 000434(1.206)
+Frame 003440 matches: 000437(0.614), 000436(0.754), 000438(0.850), 000435(1.122), 000439(1.276)
+Frame 003445 matches: 000442(0.612), 000441(0.814), 000443(0.863), 000440(1.248), 000444(1.353)
+Frame 003450 matches: 000447(0.579), 000448(0.802), 000446(0.952), 000449(1.380), 000445(1.509)
+Frame 003455 matches: 000452(0.745), 000453(0.851), 000451(1.228), 000454(1.448), 000450(1.856)
+Frame 003460 matches: 000458(0.917), 000457(0.965), 000459(1.490), 000456(1.558), 000460(2.261)
+Frame 003465 matches: 000463(0.911), 000462(1.185), 000464(1.325), 000461(1.860), 000465(2.056)
+Frame 003470 matches: 000469(0.917), 000468(1.056), 000470(1.455), 000467(1.709), 000471(2.216)
+Frame 003475 matches: 000475(0.828), 000474(1.053), 000476(1.344), 000473(1.746), 000477(2.105)
+Frame 003480 matches: 000481(0.728), 000482(1.084), 000480(1.150), 000483(1.804), 000479(1.898)
+Frame 003485 matches: 000487(0.752), 000488(0.801), 000486(1.366), 000489(1.439), 000485(2.143)
+Frame 003490 matches: 000494(0.593), 000493(0.955), 000495(1.042), 000492(1.670), 000496(1.760)
+Frame 003495 matches: 000500(0.693), 000501(0.777), 000499(1.233), 000502(1.360), 000498(1.942)
+Frame 003500 matches: 000507(0.669), 000506(0.931), 000508(0.954), 000509(1.478), 000505(1.489)
+Frame 003505 matches: 000514(0.650), 000513(0.735), 000515(0.958), 000512(1.153), 000516(1.399)
+Frame 003510 matches: 000521(0.556), 000520(0.581), 000522(0.811), 000519(0.889), 000523(1.156)
+Frame 003515 matches: 000528(0.456), 000527(0.461), 000529(0.626), 000526(0.670), 000530(0.853)
+Frame 003520 matches: 000536(0.381), 000537(0.392), 000535(0.400), 000538(0.415), 000539(0.449)
+Frame 003525 matches: 000565(0.389), 000566(0.390), 000564(0.449), 000567(0.472), 000563(0.535)
+Frame 003530 matches: 000571(0.401), 000570(0.446), 000572(0.500), 000569(0.593), 000573(0.694)
+Frame 003535 matches: 000575(0.393), 000576(0.484), 000574(0.501), 000573(0.709), 000577(0.711)
+Frame 003540 matches: 000580(0.404), 000579(0.523), 000581(0.538), 000578(0.780), 000582(0.817)
+Frame 003545 matches: 000585(0.395), 000586(0.427), 000584(0.652), 000587(0.737), 000583(0.957)
+Frame 003550 matches: 000591(0.447), 000590(0.498), 000592(0.773), 000589(0.869), 000593(1.238)
+Frame 003555 matches: 000596(0.503), 000595(0.713), 000597(0.811), 000594(1.178), 000598(1.352)
+Frame 003560 matches: 000601(0.563), 000602(0.704), 000600(1.003), 000603(1.265), 000599(1.576)
+Frame 003565 matches: 000607(0.535), 000606(0.821), 000608(1.020), 000605(1.459), 000609(1.739)
+Frame 003570 matches: 000612(0.625), 000613(0.661), 000611(1.307), 000614(1.384), 000610(2.079)
+Frame 003575 matches: 000618(0.524), 000619(0.889), 000617(1.187), 000620(1.731), 000616(2.034)
+Frame 003580 matches: 000624(0.499), 000625(1.093), 000623(1.109), 000622(2.017), 000626(2.038)
+Frame 003585 matches: 000630(0.554), 000629(1.013), 000631(1.306), 000628(1.950), 000632(2.294)
+Frame 003590 matches: 000636(0.639), 000635(0.915), 000637(1.483), 000634(1.865), 000638(2.499)
+Frame 003595 matches: 000642(0.763), 000641(0.808), 000643(1.657), 000640(1.730), 000644(2.666)
+Frame 003600 matches: 000647(0.760), 000648(0.782), 000646(1.645), 000649(1.673), 000645(2.646)
+Frame 003605 matches: 000654(0.668), 000653(0.813), 000655(1.533), 000652(1.728), 000656(2.517)
+Frame 003610 matches: 000660(0.523), 000659(0.927), 000661(1.336), 000658(1.881), 000662(2.330)
+Frame 003615 matches: 000666(0.451), 000665(1.099), 000667(1.172), 000664(2.089), 000668(2.178)
+Frame 003620 matches: 000672(0.476), 000673(1.168), 000671(1.174), 000670(2.189), 000674(2.200)
+Frame 003625 matches: 000678(0.544), 000677(1.088), 000679(1.320), 000676(2.103), 000680(2.344)
+Frame 003630 matches: 000684(0.670), 000683(0.989), 000685(1.490), 000682(1.951), 000686(2.505)
+Frame 003635 matches: 000690(0.811), 000689(0.895), 000691(1.628), 000688(1.777), 000692(2.590)
+Frame 003640 matches: 000695(0.793), 000696(0.910), 000694(1.548), 000697(1.717), 000693(2.486)
+Frame 003645 matches: 000701(0.706), 000702(1.070), 000700(1.250), 000703(1.845), 000699(2.100)
+Frame 003650 matches: 000707(0.714), 000706(1.059), 000708(1.119), 000705(1.784), 000709(1.800)
+Frame 003655 matches: 000713(0.753), 000714(1.017), 000712(1.019), 000715(1.529), 000711(1.598)
+Frame 003660 matches: 000719(0.883), 000720(0.893), 000721(1.164), 000718(1.177), 000722(1.545)
+Frame 003665 matches: 000726(1.016), 000727(1.064), 000725(1.157), 000728(1.282), 000724(1.440)
+Frame 003670 matches: 000732(1.407), 000731(1.466), 000733(1.480), 000730(1.670), 000734(1.676)
+Frame 003675 matches: 000737(1.837), 000736(1.898), 000738(1.917), 000735(2.075), 000739(2.085)
+Frame 003680 matches: 000742(2.112), 000741(2.142), 000740(2.244), 000743(2.260), 000744(2.479)
+Frame 003685 matches: 000745(2.092), 000746(2.120), 000747(2.228), 000744(2.291), 000748(2.465)
+Frame 003690 matches: 000750(1.816), 000749(1.906), 000751(1.941), 000748(2.090), 000752(2.271)
+Frame 003695 matches: 000754(1.613), 000755(1.630), 000753(1.790), 000756(1.865), 000752(2.131)
+Frame 003700 matches: 000760(1.436), 000759(1.465), 000761(1.677), 000758(1.728), 000762(2.117)
+Frame 003705 matches: 000765(1.253), 000766(1.414), 000764(1.462), 000767(1.867), 000763(1.913)
+Frame 003710 matches: 000771(1.168), 000770(1.266), 000772(1.549), 000769(1.747), 000773(2.185)
+Frame 003715 matches: 000776(1.078), 000777(1.258), 000775(1.514), 000778(1.891), 000774(2.206)
+Frame 003720 matches: 000782(1.026), 000781(1.249), 000783(1.491), 000780(1.926), 000784(2.260)
+Frame 003725 matches: 000788(1.079), 000787(1.123), 000789(1.657), 000786(1.747), 000790(2.452)
+Frame 003730 matches: 000794(1.076), 000793(1.081), 000795(1.682), 000792(1.685), 000796(2.477)
+Frame 003735 matches: 000800(1.083), 000799(1.129), 000801(1.639), 000798(1.728), 000802(2.413)
+Frame 003740 matches: 000806(1.114), 000805(1.214), 000807(1.607), 000804(1.813), 000808(2.344)
+Frame 003745 matches: 000812(1.073), 000811(1.245), 000813(1.510), 000810(1.866), 000814(2.219)
+Frame 003750 matches: 000818(1.033), 000817(1.252), 000819(1.432), 000816(1.888), 000820(2.122)
+Frame 003755 matches: 000824(1.020), 000823(1.192), 000825(1.370), 000822(1.765), 000826(1.959)
+Frame 003760 matches: 000830(1.026), 000831(1.155), 000829(1.264), 000832(1.541), 000828(1.758)
+Frame 003765 matches: 000837(1.110), 000838(1.147), 000836(1.357), 000839(1.439), 000835(1.779)
+Frame 003770 matches: 000845(1.116), 000844(1.192), 000846(1.340), 000843(1.516), 000847(1.761)
+Frame 003775 matches: 000852(1.088), 000851(1.242), 000853(1.303), 000850(1.650), 000854(1.769)
+Frame 003780 matches: 000859(1.078), 000858(1.203), 000860(1.407), 000857(1.663), 000861(2.016)
+Frame 003785 matches: 000865(1.064), 000866(1.220), 000864(1.472), 000867(1.837), 000863(2.130)
+Frame 003790 matches: 000871(1.119), 000872(1.138), 000870(1.700), 000873(1.776), 000869(2.479)
+Frame 003795 matches: 000878(1.099), 000877(1.145), 000879(1.755), 000876(1.826), 000880(2.634)
+Frame 003800 matches: 000884(1.153), 000883(1.153), 000885(1.813), 000882(1.825), 000886(2.681)
+Frame 003805 matches: 000889(1.093), 000890(1.172), 000888(1.726), 000891(1.862), 000887(2.599)
+Frame 003810 matches: 000895(1.038), 000896(1.152), 000894(1.645), 000897(1.859), 000893(2.492)
+Frame 003815 matches: 000901(1.003), 000902(1.140), 000900(1.594), 000903(1.853), 000899(2.426)
+Frame 003820 matches: 000907(1.016), 000908(1.146), 000906(1.587), 000909(1.828), 000905(2.411)
+Frame 003825 matches: 000913(1.010), 000914(1.105), 000912(1.584), 000915(1.762), 000911(2.385)
+Frame 003830 matches: 000920(0.957), 000919(1.005), 000921(1.506), 000918(1.615), 000922(2.233)
+Frame 003835 matches: 000926(0.849), 000927(0.962), 000925(1.275), 000928(1.462), 000924(1.922)
+Frame 003840 matches: 000935(0.831), 000934(0.863), 000936(1.135), 000933(1.225), 000937(1.580)
+Frame 003845 matches: 000944(1.102), 000945(1.171), 000943(1.250), 000946(1.450), 000942(1.608)
+Frame 003850 matches: 000951(3.891), 000952(3.898), 000950(3.979), 000949(4.090), 000953(4.097)
+Frame 003855 matches: none
+Frame 003860 matches: none
+Frame 003865 matches: none
+Frame 003870 matches: none
+Frame 003875 matches: none
+Frame 003880 matches: none
+Frame 003885 matches: none
+Frame 003890 matches: none
+Frame 003895 matches: none
+Frame 003900 matches: none
+Frame 003905 matches: none
+Frame 003910 matches: none
+Frame 003915 matches: none
+Frame 003920 matches: none
+Frame 003925 matches: none
+Frame 003930 matches: none
+Frame 003935 matches: none
+Frame 003940 matches: none
+Frame 003945 matches: none
+Frame 003950 matches: none
+Frame 003955 matches: none
+Frame 003960 matches: none
+Frame 003965 matches: none
+Frame 003970 matches: none
+Frame 003975 matches: none
+Frame 003980 matches: none
+Frame 003985 matches: none
+Frame 003990 matches: none
+Frame 003995 matches: none
+Frame 004000 matches: none
+Frame 004005 matches: none
+Frame 004010 matches: none
+Frame 004015 matches: none
+Frame 004020 matches: none
+Frame 004025 matches: none
+Frame 004030 matches: none
+Frame 004035 matches: none
+Frame 004040 matches: none
+Frame 004045 matches: none
+Frame 004050 matches: none
+Frame 004055 matches: none
+Frame 004060 matches: none
+Frame 004065 matches: none
+Frame 004070 matches: none
+Frame 004075 matches: none
+Frame 004080 matches: none
+Frame 004085 matches: none
+Frame 004090 matches: none
+Frame 004095 matches: none
+Frame 004100 matches: none
+Frame 004105 matches: none
+Frame 004110 matches: none
+Frame 004115 matches: none
+Frame 004120 matches: none
+Frame 004125 matches: none
+Frame 004130 matches: none
+Frame 004135 matches: none
+Frame 004140 matches: none
+Frame 004145 matches: none
+Frame 004150 matches: none
+Frame 004155 matches: none
+Frame 004160 matches: none
+Frame 004165 matches: none
+Frame 004170 matches: none
+Frame 004175 matches: none
+Frame 004180 matches: none
+Frame 004185 matches: none
+Frame 004190 matches: none
+Frame 004195 matches: none
+Frame 004200 matches: none
+Frame 004205 matches: none
+Frame 004210 matches: none
+Frame 004215 matches: none
+Frame 004220 matches: none
+Frame 004225 matches: none
+Frame 004230 matches: none
+Frame 004235 matches: none
+Frame 004240 matches: none
+Frame 004245 matches: none
+Frame 004250 matches: none
+Frame 004255 matches: none
+Frame 004260 matches: none
+Frame 004265 matches: none
+Frame 004270 matches: none
+Frame 004275 matches: none
+Frame 004280 matches: none
+Frame 004285 matches: none
+Frame 004290 matches: none
+Frame 004295 matches: none
+Frame 004300 matches: none
+Frame 004305 matches: none
+Frame 004310 matches: none
+Frame 004315 matches: none
+Frame 004320 matches: none
+Frame 004325 matches: none
+Frame 004330 matches: none
+Frame 004335 matches: none
+Frame 004340 matches: none
+Frame 004345 matches: none
+Frame 004350 matches: none
+Frame 004355 matches: none
+Frame 004360 matches: none
+Frame 004365 matches: none
+Frame 004370 matches: none
+Frame 004375 matches: none
+Frame 004380 matches: none
+Frame 004385 matches: none
+Frame 004390 matches: none
+Frame 004395 matches: none
+Frame 004400 matches: none
+Frame 004405 matches: none
+Frame 004410 matches: none
+Frame 004415 matches: none
+Frame 004420 matches: none
+Frame 004425 matches: none
+Frame 004430 matches: none
+Frame 004435 matches: 000000(5.558)
+Frame 004440 matches: 000000(3.700), 000001(4.356), 000002(5.073), 000003(5.830)
+Frame 004445 matches: 000000(1.660), 000001(2.135), 000002(2.799), 000003(3.549), 000004(4.339)
+Frame 004450 matches: 000002(0.821), 000003(0.899), 000001(1.420), 000004(1.556), 000000(2.200)
+Frame 004455 matches: 000006(0.527), 000007(0.708), 000005(1.238), 000008(1.484), 000004(2.066)
+Frame 004460 matches: 000011(0.380), 000010(0.810), 000012(1.054), 000009(1.628), 000013(1.886)
+Frame 004465 matches: 000016(0.347), 000015(0.773), 000017(1.072), 000014(1.594), 000018(1.933)
+Frame 004470 matches: 000021(0.341), 000022(0.956), 000020(0.987), 000023(1.840), 000019(1.860)
+Frame 004475 matches: 000026(0.489), 000027(0.734), 000025(1.301), 000028(1.618), 000024(2.206)
+Frame 004480 matches: 000032(0.386), 000031(0.860), 000033(1.193), 000030(1.774), 000034(2.147)
+Frame 004485 matches: 000037(0.483), 000038(0.729), 000036(1.364), 000039(1.690), 000035(2.326)
+Frame 004490 matches: 000043(0.467), 000042(0.753), 000044(1.421), 000041(1.762), 000045(2.433)
+Frame 004495 matches: 000048(0.322), 000049(0.919), 000047(1.178), 000050(1.896), 000046(2.172)
+Frame 004500 matches: 000054(0.305), 000053(0.857), 000055(1.177), 000052(1.817), 000056(2.144)
+Frame 004505 matches: 000060(0.311), 000059(0.788), 000061(1.195), 000058(1.735), 000062(2.150)
+Frame 004510 matches: 000066(0.259), 000067(0.945), 000065(0.958), 000068(1.828), 000064(1.868)
+Frame 004515 matches: 000073(0.357), 000072(0.781), 000074(1.003), 000071(1.588), 000075(1.786)
+Frame 004520 matches: 000081(0.540), 000080(0.633), 000082(1.059), 000079(1.235), 000083(1.675)
+Frame 004525 matches: 000090(0.623), 000091(0.677), 000089(0.948), 000092(1.032), 000088(1.421)
+Frame 004530 matches: 000103(0.574), 000102(0.652), 000104(0.770), 000101(0.943), 000105(1.099)
+Frame 004535 matches: 001558(2.161), 001559(2.203), 001557(2.281), 001560(2.387), 001556(2.548)
+Frame 004540 matches: 001550(2.095), 001551(2.135), 001549(2.180), 001552(2.284), 001548(2.377)
