@@ -1,6 +1,6 @@
-# FusionLCD
+# GPGV-FusionLCD
 
-## FusionLCD: Visual-Lidar Fusion Loop Closure Detection for Multi-Sensor SLAM
+## GPGV-FusionLCD: Visual-Lidar Fusion Loop Closure Detection for Multi-Sensor SLAM
 
 ## Introduction
 
